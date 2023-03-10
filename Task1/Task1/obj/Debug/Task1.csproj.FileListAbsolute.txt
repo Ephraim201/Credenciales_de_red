@@ -1,0 +1,17 @@
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\Task1.exe.config
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\Task1.exe
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\Task1.pdb
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.Form1.resources
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.Properties.Resources.resources
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.exe
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.pdb
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\ManagedNativeWifi.dll
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\ManagedNativeWifi.xml
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\obj\Debug\Task1.csproj.CopyComplete
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\SimpleWifi.dll
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\SimpleWifi.xml
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\TrabajosProgramacion\CShardVisualStudio\Task1\Task1\bin\Debug\Microsoft.WindowsAPICodePack.xml
